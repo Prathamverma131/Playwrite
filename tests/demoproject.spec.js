@@ -47,4 +47,6 @@ test('demo-automation', async ({page})=>{
     //Back to Home
     await page.locator('[data-test="back-to-products"]');
 
+    
+
 } )
